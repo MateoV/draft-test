@@ -1,8 +1,9 @@
 ---
+published: true
 layout: post
-title:  "First Post"
-date:   2013-06-13 14:29:30
+title: First Post
+date: "2013-06-13T14:29:30.000Z"
 categories: jekyll update
 ---
 
-Hello World
+Hello World! draft
