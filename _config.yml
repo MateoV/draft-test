@@ -6,3 +6,6 @@ languages: &languages
     value: 'en'
   - name: 'Español'
     value: 'es'
+
+prose:
+  rooturl: "_posts"
